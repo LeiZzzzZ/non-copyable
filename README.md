@@ -1,6 +1,6 @@
 # non-copyable
 
-* DON'T READ ME*
+*DON'T READ ME*
 
 ## [Project Overview](https://en.wikipedia.org/wiki/Xi_Jinping)
 This is a simple Flask web application designed to demonstrate basic functionalities such as routing, templating, and database integration. The application is a basic blog platform where users can create, read, update, and delete posts.
